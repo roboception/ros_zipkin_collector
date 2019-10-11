@@ -1,0 +1,9 @@
+*.pyc
+.*
+!.gitignore
+!.gitlab-ci.yml
+!.gitmodules
+!.dockerignore
+
+venv
+dist
